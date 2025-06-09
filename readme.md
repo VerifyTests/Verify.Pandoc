@@ -253,10 +253,6 @@ nunc vehicula vitae.
 <sup><a href='#snippet-Samples.VerifyRtf.verified.md' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
-[Samples.VerifyPdf#00.verified.png](/src/Tests/Samples.VerifyPdf%2300.verified.png):
-
-<img src="/src/Tests/Samples.VerifyPdf%2300.verified.png" width="200px">
-
 
 ### Word
 
@@ -461,10 +457,6 @@ sapien.
 ```
 <sup><a href='#snippet-Samples.VerifyWord.verified.md' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
-
-[Samples.VerifyWord#00.verified.png](/src/Tests/Samples.VerifyWord%2300.verified.png):
-
-<img src="/src/Tests/Samples.VerifyWord%2300.verified.png" width="200px">
 
 
 ## File Samples
