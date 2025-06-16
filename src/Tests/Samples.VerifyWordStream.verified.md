@@ -1,4 +1,4 @@
-﻿# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac faucibus odio. 
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac faucibus odio. 
 
 Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie
 mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi.
@@ -14,21 +14,20 @@ amet mauris tempus fringilla.
 
 Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
 
--   **Maecenas non lorem quis tellus placerat varius.**
+- **Maecenas non lorem quis tellus placerat varius.**
 
--   *Nulla facilisi.*
+- *Nulla facilisi.*
 
--   [Aenean congue fringilla justo ut aliquam.]{.underline}
+- [Aenean congue fringilla justo ut aliquam.]{.underline}
 
--   [[Mauris id ex
-    erat.]{.underline}](https://products.office.com/en-us/word) Nunc
-    vulputate neque vitae justo facilisis, non condimentum ante
-    sagittis.
+- [[Mauris id ex
+  erat.]{.underline}](https://products.office.com/en-us/word) Nunc
+  vulputate neque vitae justo facilisis, non condimentum ante sagittis.
 
--   Morbi viverra semper lorem nec molestie.
+- Morbi viverra semper lorem nec molestie.
 
--   Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est
-    vulputate.
+- Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est
+  vulputate.
 
 In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat
 efficitur. Cras aliquam est ac eros varius, id iaculis dui auctor. Duis

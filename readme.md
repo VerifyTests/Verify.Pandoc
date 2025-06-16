@@ -84,30 +84,30 @@ public Task VerifyRtfStream()
 <!-- snippet: Samples.VerifyRtf.verified.md -->
 <a id='snippet-Samples.VerifyRtf.verified.md'></a>
 ```md
-**Lorem ipsum **
+**Lorem ipsum**
 
 - **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac
-  faucibus odio. **
+  faucibus odio.**
 
 Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie
 mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi.
 Ut ac dolor vitae odio interdum condimentum. **Vivamus dapibus sodales
 ex, vitae malesuada ipsum cursus convallis. Maecenas sed egestas nulla,
-ac condimentum orci. **Mauris diam felis, vulputate ac suscipit et,
+ac condimentum orci.** Mauris diam felis, vulputate ac suscipit et,
 iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus nisl
 blandit. Integer lacinia ante ac libero lobortis imperdiet. *Nullam
-mollis convallis ipsum, ac accumsan nunc vehicula vitae. *Nulla eget
+mollis convallis ipsum, ac accumsan nunc vehicula vitae.* Nulla eget
 justo in felis tristique fringilla. Morbi sit amet tortor quis risus
 auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit
 amet mauris tempus fringilla.
 
 Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
 
-- **Maecenas non lorem quis tellus placerat varius. **
+- **Maecenas non lorem quis tellus placerat varius.**
 
-- *Nulla facilisi. *
+- *Nulla facilisi.*
 
-- <u>Aenean congue fringilla justo ut aliquam. </u>
+- [Aenean congue fringilla justo ut aliquam.]{.underline}
 
 - Nunc vulputate neque vitae justo facilisis, non condimentum ante
   sagittis.
@@ -133,44 +133,22 @@ commodo. Aliquam erat volutpat. Vestibulum in egestas velit.
 Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris
 vitae orci maximus ultricies.
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p><strong>Cras fringilla ipsum magna, in fringilla dui commodo
-a.</strong></p></li>
-</ul>
-<p>Lorem ipsum</p></td>
-<td><p>Lorem ipsum</p></td>
-<td><p>Lorem ipsum</p></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>In eleifend velit vitae libero sollicitudin euismod.</p></td>
-<td><p>Lorem</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2</p></td>
-<td><p>Cras fringilla ipsum magna, in fringilla dui commodo a.</p></td>
-<td><p>Ipsum</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3</p></td>
-<td><p>Fusce vitae vestibulum velit.</p></td>
-<td><p>Lorem</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4</p></td>
-<td><p>Etiam vehicula luctus fermentum.</p></td>
-<td><p>Ipsum</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++---+--------------------------------------+-------------+-------------+
+|   | - **Cras fringilla ipsum magna, in   | Lorem ipsum | Lorem ipsum |
+|   |   fringilla dui commodo a.**         |             |             |
+|   |                                      |             |             |
+|   | Lorem ipsum                          |             |             |
++---+--------------------------------------+-------------+-------------+
+| 1 | In eleifend velit vitae libero       | Lorem       |             |
+|   | sollicitudin euismod.                |             |             |
++---+--------------------------------------+-------------+-------------+
+| 2 | Cras fringilla ipsum magna, in       | Ipsum       |             |
+|   | fringilla dui commodo a.             |             |             |
++---+--------------------------------------+-------------+-------------+
+| 3 | Fusce vitae vestibulum velit.        | Lorem       |             |
++---+--------------------------------------+-------------+-------------+
+| 4 | Etiam vehicula luctus fermentum.     | Ipsum       |             |
++---+--------------------------------------+-------------+-------------+
 
 Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus
 vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet,
@@ -191,6 +169,9 @@ neque vitae justo facilisis, non condimentum ante sagittis. Morbi
 viverra semper lorem nec molestie. Maecenas tincidunt est efficitur
 ligula euismod, sit amet ornare est vulputate.
 
+![image](c34e1b542d06422ada9ee633208b5c6e0018701b.jpg){width="2.7777777777777777in"
+height="1.8472222222222223in"}
+
 Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean
 congue fringilla justo ut aliquam. Mauris id ex erat. Nunc vulputate
 neque vitae justo facilisis, non condimentum ante sagittis. Morbi
@@ -207,6 +188,9 @@ Cras id eros sed enim aliquam lobortis. Sed lobortis nisl ut eros
 efficitur tincidunt. Cras justo mi, porttitor quis mattis vel, ultricies
 ut purus. Ut facilisis et lacus eu cursus.In eleifend velit vitae libero
 sollicitudin euismod.
+
+![image](c34e1b542d06422ada9ee633208b5c6e0018701b.jpg){width="2.7777777777777777in"
+height="1.8472222222222223in"}
 
 Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis
 pellentesque commodo. Aliquam erat volutpat. Vestibulum in egestas
@@ -227,7 +211,7 @@ imperdiet. Morbi velit neque, semper quis lorem quis, efficitur
 dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id
 sapien.
 
-- **Lorem ipsum dolor sit amet, consectetur adipiscing elit. **
+- **Lorem ipsum dolor sit amet, consectetur adipiscing elit.**
 
 Nunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet
 ligula eu, congue molestie mi. Praesent ut varius sem. Nullam at
@@ -242,13 +226,16 @@ Morbi sit amet tortor quis risus auctor condimentum. Morbi in
 ullamcorper elit. Nulla iaculis tellus sit amet mauris tempus fringilla.
 
 - **Maecenas mauris lectus, lobortis et purus mattis, blandit dictum
-  tellus. **
+  tellus.**
 
 Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean
 congue fringilla justo ut aliquam. Mauris id ex erat. Nunc vulputate
 neque vitae justo facilisis, non condimentum ante sagittis. Morbi
 viverra semper lorem nec molestie. Maecenas tincidunt est efficitur
 ligula euismod, sit amet ornare est vulputate.
+
+![image](c34e1b542d06422ada9ee633208b5c6e0018701b.jpg){width="2.7777777777777777in"
+height="1.8472222222222223in"}
 
 Nunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet
 ligula eu, congue molestie mi. Praesent ut varius sem. Nullam at
@@ -321,11 +308,11 @@ Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
 
 - *Nulla facilisi.*
 
-- <u>Aenean congue fringilla justo ut aliquam.</u>
+- [Aenean congue fringilla justo ut aliquam.]{.underline}
 
-- [<u>Mauris id ex erat.</u>](https://products.office.com/en-us/word)
-  Nunc vulputate neque vitae justo facilisis, non condimentum ante
-  sagittis.
+- [[Mauris id ex
+  erat.]{.underline}](https://products.office.com/en-us/word) Nunc
+  vulputate neque vitae justo facilisis, non condimentum ante sagittis.
 
 - Morbi viverra semper lorem nec molestie.
 
@@ -350,52 +337,21 @@ vitae orci maximus ultricies.
 
 # Cras fringilla ipsum magna, in fringilla dui commodo a.
 
-<table>
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 58%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-<td>Lorem ipsum</td>
-</tr>
-<tr class="even">
-<td>1</td>
-<td>In eleifend velit vitae libero sollicitudin euismod.</td>
-<td>Lorem</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td>Cras fringilla ipsum magna, in fringilla dui commodo a.</td>
-<td>Ipsum</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3</td>
-<td>Aliquam erat volutpat.</td>
-<td>Lorem</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td>Fusce vitae vestibulum velit.</td>
-<td>Lorem</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>5</td>
-<td>Etiam vehicula luctus fermentum.</td>
-<td>Ipsum</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+  ----- ----------------------------------------- ----------- ------------
+        Lorem ipsum                               Lorem ipsum Lorem ipsum
+
+  1     In eleifend velit vitae libero            Lorem       
+        sollicitudin euismod.                                 
+
+  2     Cras fringilla ipsum magna, in fringilla  Ipsum       
+        dui commodo a.                                        
+
+  3     Aliquam erat volutpat.                    Lorem       
+
+  4     Fusce vitae vestibulum velit.             Lorem       
+
+  5     Etiam vehicula luctus fermentum.          Ipsum       
+  ----- ----------------------------------------- ----------- ------------
 
 Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus
 vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet,
@@ -463,7 +419,8 @@ imperdiet. Morbi velit neque, semper quis lorem quis, efficitur
 dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id
 sapien.
 
-<img src="media/image1.jpeg" style="width:6.69306in;height:4.46181in" />
+![](media/image1.jpeg){width="6.6930555555555555in"
+height="4.461805555555555in"}
 ```
 <sup><a href='#snippet-Samples.VerifyWord.verified.md' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
