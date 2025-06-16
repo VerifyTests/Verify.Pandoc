@@ -25,7 +25,7 @@ public static class VerifyPandoc
         => VerifierSettings.RegisterStreamConverter(
             extension, async (_, stream, _) =>
             {
-                var markdown = await PandocInstance.ConvertToText<T, CommonMarkOut>(stream);
+                var markdown = await PandocInstance.ConvertToText<T, PandocMdOut>(stream);
                 return new(null, "md", markdown);
             });
 }

@@ -1,7 +1,7 @@
-**Lorem ipsum **
+﻿**Lorem ipsum **
 
-- **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac
-  faucibus odio. **
+-   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac
+    faucibus odio. **
 
 Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie
 mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi.
@@ -17,19 +17,19 @@ amet mauris tempus fringilla.
 
 Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
 
-- **Maecenas non lorem quis tellus placerat varius. **
+-   **Maecenas non lorem quis tellus placerat varius. **
 
-- *Nulla facilisi. *
+-   *Nulla facilisi. *
 
-- <u>Aenean congue fringilla justo ut aliquam. </u>
+-   [Aenean congue fringilla justo ut aliquam. ]{.underline}
 
-- Nunc vulputate neque vitae justo facilisis, non condimentum ante
-  sagittis.
+-   Nunc vulputate neque vitae justo facilisis, non condimentum ante
+    sagittis.
 
-- Morbi viverra semper lorem nec molestie.
+-   Morbi viverra semper lorem nec molestie.
 
-- Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est
-  vulputate.
+-   Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est
+    vulputate.
 
 In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat
 efficitur. Cras aliquam est ac eros varius, id iaculis dui auctor. Duis
@@ -47,44 +47,22 @@ commodo. Aliquam erat volutpat. Vestibulum in egestas velit.
 Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris
 vitae orci maximus ultricies.
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p><strong>Cras fringilla ipsum magna, in fringilla dui commodo
-a.</strong></p></li>
-</ul>
-<p>Lorem ipsum</p></td>
-<td><p>Lorem ipsum</p></td>
-<td><p>Lorem ipsum</p></td>
-</tr>
-<tr class="even">
-<td><p>1</p></td>
-<td><p>In eleifend velit vitae libero sollicitudin euismod.</p></td>
-<td><p>Lorem</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2</p></td>
-<td><p>Cras fringilla ipsum magna, in fringilla dui commodo a.</p></td>
-<td><p>Ipsum</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3</p></td>
-<td><p>Fusce vitae vestibulum velit.</p></td>
-<td><p>Lorem</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>4</p></td>
-<td><p>Etiam vehicula luctus fermentum.</p></td>
-<td><p>Ipsum</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++---+-----------------------------------+-------------+-------------+
+|   | -   **Cras fringilla ipsum magna, | Lorem ipsum | Lorem ipsum |
+|   |     in fringilla dui commodo a.** |             |             |
+|   |                                   |             |             |
+|   | Lorem ipsum                       |             |             |
++---+-----------------------------------+-------------+-------------+
+| 1 | In eleifend velit vitae libero    | Lorem       |             |
+|   | sollicitudin euismod.             |             |             |
++---+-----------------------------------+-------------+-------------+
+| 2 | Cras fringilla ipsum magna, in    | Ipsum       |             |
+|   | fringilla dui commodo a.          |             |             |
++---+-----------------------------------+-------------+-------------+
+| 3 | Fusce vitae vestibulum velit.     | Lorem       |             |
++---+-----------------------------------+-------------+-------------+
+| 4 | Etiam vehicula luctus fermentum.  | Ipsum       |             |
++---+-----------------------------------+-------------+-------------+
 
 Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus
 vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet,
@@ -141,7 +119,7 @@ imperdiet. Morbi velit neque, semper quis lorem quis, efficitur
 dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id
 sapien.
 
-- **Lorem ipsum dolor sit amet, consectetur adipiscing elit. **
+-   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. **
 
 Nunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet
 ligula eu, congue molestie mi. Praesent ut varius sem. Nullam at
@@ -155,8 +133,8 @@ nunc vehicula vitae. Nulla eget justo in felis tristique fringilla.
 Morbi sit amet tortor quis risus auctor condimentum. Morbi in
 ullamcorper elit. Nulla iaculis tellus sit amet mauris tempus fringilla.
 
-- **Maecenas mauris lectus, lobortis et purus mattis, blandit dictum
-  tellus. **
+-   **Maecenas mauris lectus, lobortis et purus mattis, blandit dictum
+    tellus. **
 
 Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean
 congue fringilla justo ut aliquam. Mauris id ex erat. Nunc vulputate
