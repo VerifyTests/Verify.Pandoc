@@ -1,4 +1,4 @@
-﻿# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac faucibus odio. 
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac faucibus odio. 
 
 Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie
 mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi.

@@ -1,4 +1,4 @@
-﻿**Lorem ipsum **
+**Lorem ipsum **
 
 -   **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac
     faucibus odio. **
