@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/f1j7ka007s5uea82?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-Pandoc)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.Pandoc.svg)](https://www.nuget.org/packages/Verify.Pandoc/)
 
-Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [PandocNet](https://github.com/SimonCropp/PandocNet).
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of documents via [PandocNet](https://github.com/SimonCropp/PandocNet).<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
 
 Converts documents to markdown.
 
@@ -21,9 +21,9 @@ Currently supported documents:
 
 ### Entity Framework Extensions<!-- include: zzz. path: /docs/zzz.include.md -->
 
-[Entity Framework Extensions](https://entityframework-extensions.net/) is a major sponsor and is proud to contribute to the development this project.
+[Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Pandoc) is a major sponsor and is proud to contribute to the development this project.
 
-[![Entity Framework Extensions](docs/zzz.png)](https://entityframework-extensions.net)<!-- endInclude -->
+[![Entity Framework Extensions](https://raw.githubusercontent.com/VerifyTests/Verify.Pandoc/refs/heads/main/docs/zzz.png)](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Pandoc)<!-- endInclude -->
 
 
 ## NuGet package
