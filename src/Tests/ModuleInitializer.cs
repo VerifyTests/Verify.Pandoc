@@ -12,6 +12,6 @@
     public static void InitializeOther()
     {
         VerifyDiffPlex.Initialize();
-        VerifyImageMagick.RegisterComparers(.01);
+        VerifierSettings.UseSsimForPng();
     }
 }
