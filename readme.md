@@ -88,6 +88,8 @@ public Task VerifyRtfStream()
 <!-- snippet: Samples.VerifyRtf.verified.md -->
 <a id='snippet-Samples.VerifyRtf.verified.md'></a>
 ```md
+- **Cras fringilla ipsum magna, in fringilla dui commodo a.**
+
 **Lorem ipsum**
 
 - **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac
@@ -113,8 +115,9 @@ Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
 
 - [Aenean congue fringilla justo ut aliquam.]{.underline}
 
-- Nunc vulputate neque vitae justo facilisis, non condimentum ante
-  sagittis.
+- [[Mauris id ex erat.
+  ](https://products.office.com/en-us/word)]{.underline}Nunc vulputate
+  neque vitae justo facilisis, non condimentum ante sagittis.
 
 - Morbi viverra semper lorem nec molestie.
 
@@ -137,22 +140,13 @@ commodo. Aliquam erat volutpat. Vestibulum in egestas velit.
 Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris
 vitae orci maximus ultricies.
 
-+---+--------------------------------------+-------------+-------------+
-|   | - **Cras fringilla ipsum magna, in   | Lorem ipsum | Lorem ipsum |
-|   |   fringilla dui commodo a.**         |             |             |
-|   |                                      |             |             |
-|   | Lorem ipsum                          |             |             |
-+---+--------------------------------------+-------------+-------------+
-| 1 | In eleifend velit vitae libero       | Lorem       |             |
-|   | sollicitudin euismod.                |             |             |
-+---+--------------------------------------+-------------+-------------+
-| 2 | Cras fringilla ipsum magna, in       | Ipsum       |             |
-|   | fringilla dui commodo a.             |             |             |
-+---+--------------------------------------+-------------+-------------+
-| 3 | Fusce vitae vestibulum velit.        | Lorem       |             |
-+---+--------------------------------------+-------------+-------------+
-| 4 | Etiam vehicula luctus fermentum.     | Ipsum       |             |
-+---+--------------------------------------+-------------+-------------+
+  --- --------------------------------------------------------- ------------- -------------
+      Lorem ipsum                                               Lorem ipsum   Lorem ipsum
+  1   In eleifend velit vitae libero sollicitudin euismod.      Lorem         
+  2   Cras fringilla ipsum magna, in fringilla dui commodo a.   Ipsum         
+  3   Fusce vitae vestibulum velit.                             Lorem         
+  4   Etiam vehicula luctus fermentum.                          Ipsum         
+  --- --------------------------------------------------------- ------------- -------------
 
 Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus
 vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet,

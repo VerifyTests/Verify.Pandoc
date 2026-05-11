@@ -1,4 +1,4 @@
-﻿- **Cras fringilla ipsum magna, in fringilla dui commodo a.**
+- **Cras fringilla ipsum magna, in fringilla dui commodo a.**
 
 **Lorem ipsum**
 
