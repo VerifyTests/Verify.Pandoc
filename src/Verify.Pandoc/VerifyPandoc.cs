@@ -15,7 +15,6 @@ public static class VerifyPandoc
 
         InnerVerifier.ThrowIfVerifyHasBeenRun();
 
-        EmptyFiles.FileExtensions.RemoveTextExtension("rtf");
         AddConverter<DocxIn>("docx");
         AddConverter<RtfIn>("rtf");
     }
